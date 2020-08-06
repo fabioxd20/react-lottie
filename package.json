@@ -1,10 +1,10 @@
 {
-  "name": "react-lottie-light",
+  "name": "react-lottie-safe",
   "version": "1.0.0",
   "description": "lottie animation view for React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabioxd20/react-lottie"
+    "url": "https://github.com/fabioxd20/react-lottie-safe"
   },
   "license": "MIT",
   "scripts": {
