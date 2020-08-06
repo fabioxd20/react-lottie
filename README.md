@@ -9,7 +9,7 @@
 
 Install through npm:
 ```
-npm install --save react-lottie
+npm install --save react-lottie-safe
 ```
 
 ## Usage
